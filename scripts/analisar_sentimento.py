@@ -77,7 +77,7 @@ def main():
     print("Carregando modelo...")
     modelo = LogisticRegression()
     try:
-        modelo = pd.read_pickle("modelo_treinado.pkl") 
+        modelo = pd.read_pickle("../modelo_treinado.pkl") 
     except FileNotFoundError:
         print("Erro: Arquivo 'modelo_treinado.pkl' não encontrado.")
         return

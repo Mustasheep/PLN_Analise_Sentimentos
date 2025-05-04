@@ -55,7 +55,7 @@ Este projeto utiliza a biblioteca NLTK, uma das mais populares para PLN em Pytho
 Para executar a análise de sentimentos em um texto, utilize o seguinte comando:
 
 ```bash
-python analisar_sentimento.py --text "Este filme é incrível!"
+python analisar_sentimento.py --text "I loved this movie, it's magnificent."
 ```
 Resultado:
 ```bash

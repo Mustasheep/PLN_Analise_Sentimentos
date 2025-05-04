@@ -37,7 +37,7 @@ Este projeto utiliza a biblioteca NLTK, uma das mais populares para PLN em Pytho
 1.  Clone o repositório:
     ```bash
     git clone https://github.com/Mustasheep/PLN_Analise_Sentimentos.git
-    cd PLN_Analise_Sentimentos/scripts
+    cd PLN_Analise_Sentimentos/
     ```
 2.  Crie um ambiente virtual (recomendado):
     ```bash

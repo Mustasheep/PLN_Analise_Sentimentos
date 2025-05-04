@@ -17,7 +17,7 @@ def text_preprocessing(text):
         text = unicodedata.normalize('NFD', text)
         text = ''.join([c for c in text if not unicodedata.combining(c)])
         text = re.sub(r'\d+', '', text)
-        text = re.sub(r'[^a-zA-Z0-9\\s]', '', text)
+        text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
         text = re.sub(r'\s+', ' ', text)
         tokens = word_tokenize(text)
 

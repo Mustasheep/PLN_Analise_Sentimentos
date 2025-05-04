@@ -2,6 +2,8 @@
 
 Este projeto implementa um sistema de análise de sentimentos utilizando técnicas de Processamento de Linguagem Natural (PLN) e a biblioteca NLTK em Python. O objetivo é identificar e classificar a polaridade (positiva, negativa) de textos, como comentários de redes sociais, reviews de produtos, etc.
 
+Inicialmente, suporta apenas textos em inglês.
+
 ## Sumário
 *   [1. Visão Geral](#1-visão-geral)
 *   [2. Funcionalidades](#2-funcionalidades)

@@ -42,8 +42,8 @@ Este projeto utiliza a biblioteca NLTK, uma das mais populares para PLN em Pytho
 2.  Crie um ambiente virtual (recomendado):
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Linux/macOS
-    venv\Scripts\activate  # No Windows
+    #source venv/bin/activate --descomente para usar em Linux/IOs
+    venv\Scripts\activat
     ```
 3.  Instale as dependências:
     ```bash

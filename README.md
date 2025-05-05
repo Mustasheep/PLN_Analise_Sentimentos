@@ -102,9 +102,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## 9. Autor
 
-*   [GitHub](https://github.com/Mustasheep)
 *   [LinkedIn](https://www.linkedin.com/in/thiago-mustasheep/)
-*   [Email](thiagoassis.scientist@gmail.com)
 
 ---------------
 [Início](#análise-de-sentimentos-em-textos-com-python-e-nltk)
